@@ -62,5 +62,3 @@ A neural network built using the **Sequential API** with the following architect
 ## 📊 Results
 The project compares the performance of traditional ML models and the neural network.  
 The evaluation metrics used are **accuracy**, **precision**, **recall**, **F1-score**, and **AUC**.
-ct is shared under the **MIT License**.  
-Please check the `LICENSE` file for details.
